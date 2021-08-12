@@ -1,4 +1,4 @@
-# Class [ZCL_OEE_WO_UPDATE](src/zcl_oee_wo_update.clas.abap) that implements the WO_UPDATE-BADI
+# Class [ZCL_OEE_WO_UPDATE](https://github.com/danijelos/SAP-Anbindung-an-RESTful-API-der-oee.ai/blob/6e7083d527cd0367d14d3f26326232cdbb2e8cf6/src/zcl_oee_wo_update.clas.abap) that implements the WO_UPDATE-BADI
 
 ## Attributes
 
