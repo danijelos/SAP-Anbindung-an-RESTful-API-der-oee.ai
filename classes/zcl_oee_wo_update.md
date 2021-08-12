@@ -23,14 +23,6 @@ DATA:     gl_code              TYPE string,
 ```
 Saving data in the zcl_oee_wo_update class. That is necessary because you are only able to access "is_header_dialog" in the "~at_save"-method but you need the data in the "~number_release"-method, too.
 
-## Methods
-
-* [if_ex_workorder_update~at_save](https://gitlab.com/ifp-software/oee-ai/oee-ai-connector-sap/-/blob/main/classes/zcl_oee_wo_update.md#if_ex_workorder_updateat_save)
-* [if_ex_workorder_update~number_switch](https://gitlab.com/ifp-software/oee-ai/oee-ai-connector-sap/-/blob/main/classes/zcl_oee_wo_update.md#if_ex_workorder_updatenumber_switch)
-* [if_ex_workorder_update~before_update](https://gitlab.com/ifp-software/oee-ai/oee-ai-connector-sap/-/blob/main/classes/zcl_oee_wo_update.md#if_ex_workorder_updatebefore_update)
-* [date_time_string](https://gitlab.com/ifp-software/oee-ai/oee-ai-connector-sap/-/blob/main/classes/zcl_oee_wo_update.md#date_time_string)
-* [insert_productionorder_code](https://gitlab.com/ifp-software/oee-ai/oee-ai-connector-sap/-/blob/main/classes/zcl_oee_wo_update.md#insert_productionorder_code)
-* [update_productionorder_code](https://gitlab.com/ifp-software/oee-ai/oee-ai-connector-sap/-/blob/main/classes/zcl_oee_wo_update.md#update_productionorder_code)
 
 ## Methods which SAP has specified <br> <br>
 
