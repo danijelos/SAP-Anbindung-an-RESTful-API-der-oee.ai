@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>BADI_IMPL</TOOL>
+   <SHORTTEXT>On Workorder Update for oee.ai</SHORTTEXT>
+   <SPOT_NAME>WORKORDER_UPDATE</SPOT_NAME>
+   <IMPL>
+    <ENH_BADI_IMPL_DATA>
+     <SPOT_NAME>WORKORDER_UPDATE</SPOT_NAME>
+     <BADI_NAME>WORKORDER_UPDATE</BADI_NAME>
+     <IMPL_NAME>ZPV_OEE_WO_UPDATE</IMPL_NAME>
+     <IMPL_CLASS>ZCL_OEE_WO_UPDATE</IMPL_CLASS>
+     <ACTIVE>X</ACTIVE>
+     <IMPL_SHORTTEXT>Implementierung: Business Add-In PM-/PP-/PS-/PI-Aufträge Vorgang: UPDATE</IMPL_SHORTTEXT>
+     <IMPL_SHORTTEXT_ID>00505699FA6B1EDBAE90846D2F4D6F39</IMPL_SHORTTEXT_ID>
+    </ENH_BADI_IMPL_DATA>
+   </IMPL>
+   <SOTR>
+    <item>
+     <HEADER>
+      <CONCEPT>00505699FA6B1EDBAE907DED2192CF39</CONCEPT>
+      <CREA_LAN>D</CREA_LAN>
+      <TRALA_TYPE>1</TRALA_TYPE>
+      <OBJID_VEC>AAI=</OBJID_VEC>
+     </HEADER>
+     <ENTRIES>
+      <SOTR_TEXT>
+       <CONCEPT>00505699FA6B1EDBAE907DED2192CF39</CONCEPT>
+       <LANGU>D</LANGU>
+       <LFD_NUM>0001</LFD_NUM>
+       <FLAG_CNTXT>X</FLAG_CNTXT>
+       <STATUS>R</STATUS>
+       <LENGTH>045</LENGTH>
+       <TEXT>On Workorder Update for oee.ai</TEXT>
+      </SOTR_TEXT>
+     </ENTRIES>
+    </item>
+    <item>
+     <HEADER>
+      <CONCEPT>00505699FA6B1EDBAE90846D2F4D6F39</CONCEPT>
+      <CREA_LAN>D</CREA_LAN>
+      <TRALA_TYPE>1</TRALA_TYPE>
+      <OBJID_VEC>AAI=</OBJID_VEC>
+     </HEADER>
+     <ENTRIES>
+      <SOTR_TEXT>
+       <CONCEPT>00505699FA6B1EDBAE90846D2F4D6F39</CONCEPT>
+       <LANGU>D</LANGU>
+       <LFD_NUM>0001</LFD_NUM>
+       <FLAG_CNTXT>X</FLAG_CNTXT>
+       <STATUS>R</STATUS>
+       <LENGTH>108</LENGTH>
+       <TEXT>Implementierung: Business Add-In PM-/PP-/PS-/PI-Aufträge Vorgang: UPDATE</TEXT>
+      </SOTR_TEXT>
+     </ENTRIES>
+    </item>
+   </SOTR>
+   <SOTR_USE>
+    <SOTR_USE>
+     <PGMID>R3TR</PGMID>
+     <OBJECT>ENHO</OBJECT>
+     <OBJ_NAME>ZPV_OEE_WO_UPDATE</OBJ_NAME>
+     <CONCEPT>00505699FA6B1EDBAE907DED2192CF39</CONCEPT>
+     <LFD_NUM>0001</LFD_NUM>
+    </SOTR_USE>
+    <SOTR_USE>
+     <PGMID>R3TR</PGMID>
+     <OBJECT>ENHO</OBJECT>
+     <OBJ_NAME>ZPV_OEE_WO_UPDATE</OBJ_NAME>
+     <CONCEPT>00505699FA6B1EDBAE90846D2F4D6F39</CONCEPT>
+     <LFD_NUM>0001</LFD_NUM>
+    </SOTR_USE>
+   </SOTR_USE>
+  </asx:values>
+ </asx:abap>
+</abapGit>
