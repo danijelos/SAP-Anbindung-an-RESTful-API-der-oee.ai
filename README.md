@@ -1,7 +1,7 @@
-# oee-ai-connector-sap
+# This is an interface I build in my Bachelor Thesis which connects the production orders of an SAP S/4 HANA system to the MES of the firm.
+# Once a production order is added, deleted or updated in SAP S/4 HANA by an employee, this will automatically do the same in the MES.
 
-oee.ai <-> SAP integration
-
+# How to achieve this?
 ## Procedure
 
 1. Create an extension implementation (Erweiterungsimplementierung) with the extension spot "WORKORDER_UPDATE
